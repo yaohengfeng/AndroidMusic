@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI计算</string>
+    <string name="bmi">BMI计算</string>
+    <string name="height">身高(cm):</string>
+    <string name="weight">体重(kg):</string>
+    <string name="count">计算</string>
+    <string name="exit">退出</string>
+</resources>
